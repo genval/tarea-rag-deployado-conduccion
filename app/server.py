@@ -68,7 +68,7 @@ SYSTEM_PROMPT = (
 )
 
 _agent = create_react_agent(
-    model=ChatOpenAI(model=GEN_MODEL, reasoning_effort="low"),
+    model=ChatOpenAI(model=GEN_MODEL, reasoning_effort="none"),
     tools=[buscar_en_documento],
     prompt=SYSTEM_PROMPT,
 )
