@@ -62,18 +62,18 @@ def cargar_documentos() -> list[Document]:
         },
         {
             "archivo": "Capitulo2.txt",
-            "capitulo": "2 - Los principios de la conducción (parte 1)",
+            "capitulo": "2 - Los principios de la conducción",
             "loader": lambda p: TextLoader(str(p), encoding="utf-8").load(),
-        },
-        {
-            "archivo": "cap4.pdf",  # PDF nativo, texto real extraíble (no escaneado)
-            "capitulo": "2 - Los principios de la conducción (PDF oficial)",
-            "loader": lambda p: PyPDFLoader(str(p)).load(),
         },
         {
             "archivo": "Capitulo3.docx",
             "capitulo": "3 - Convivencia Vial",
             "loader": lambda p: Docx2txtLoader(str(p)).load(),
+        },
+        {
+            "archivo": "cap4.pdf",  # PDF nativo, texto real extraíble (no escaneado)
+            "capitulo": "4 - Las personas en el tránsito",
+            "loader": lambda p: PyPDFLoader(str(p)).load(),
         },
     ]
 
