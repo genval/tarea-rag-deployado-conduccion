@@ -38,6 +38,27 @@ for var in ("OPENAI_API_KEY", "QDRANT_URL", "QDRANT_API_KEY"):
     if not os.getenv(var):
         raise RuntimeError(f"Falta la variable de entorno {var} (revisa tu .env o los secrets de fly.io)")
 
+# --- Observabilidad con Langfuse (opcional y degradante) ----------------------
+# Si faltan las claves, el servidor sigue funcionando igual, solo sin trazas.
+_LANGFUSE_ACTIVO = bool(os.getenv("LANGFUSE_PUBLIC_KEY")) and bool(os.getenv("LANGFUSE_SECRET_KEY"))
+_langfuse_handler = None
+
+if _LANGFUSE_ACTIVO:
+    try:
+        from langfuse import get_client
+        from langfuse.langchain import CallbackHandler
+
+        _langfuse_client = get_client()
+        if _langfuse_client.auth_check():
+            _langfuse_handler = CallbackHandler()
+            print(f"✅ Langfuse activo → {os.getenv('LANGFUSE_BASE_URL')}")
+        else:
+            print("⚠️  Las claves de Langfuse no pasaron auth_check() — continuando sin trazas.")
+    except Exception as e:
+        print(f"⚠️  No se pudo inicializar Langfuse: {e!r} — continuando sin trazas.")
+else:
+    print("ℹ️  Sin claves de Langfuse en .env — continuando sin trazas.")
+
 # --- Vector store (conexión a la colección YA poblada) -----------------------
 _client = QdrantClient(url=os.getenv("QDRANT_URL"), api_key=os.getenv("QDRANT_API_KEY"))
 _embeddings = OpenAIEmbeddings(model=EMBED_MODEL, dimensions=EMBED_DIMS)
@@ -76,7 +97,10 @@ _agent = create_react_agent(
 
 def responder(pregunta: str) -> str:
     """Invoca el agente y devuelve solo el texto de la última respuesta."""
-    resultado = _agent.invoke({"messages": [{"role": "user", "content": pregunta}]})
+    config = {"callbacks": [_langfuse_handler]} if _langfuse_handler else {}
+    resultado = _agent.invoke({"messages": [{"role": "user", "content": pregunta}]}, config=config)
+    if _LANGFUSE_ACTIVO and "_langfuse_client" in globals():
+        _langfuse_client.flush()  # fuerza el envío inmediato de la traza (útil en pruebas)
     return resultado["messages"][-1].content
 
 
