@@ -65,9 +65,13 @@ Esto puede tardar unos minutos la primera vez (descarga todas las librerías nec
 
 ---
 
-## 4. Poblar la base de datos vectorial (Qdrant) — solo la primera vez
+## 4. Poblar la base de datos vectorial (Qdrant)
 
-Este paso lee los documentos de la carpeta `data/`, los trocea, y los sube a tu Qdrant Cloud. **Solo hace falta correrlo una vez** (o de nuevo si cambian los documentos fuente).
+> ⚠️ **Este paso ya se hizo.** Si estás trabajando en equipo y otra persona ya corrió este paso con las mismas credenciales de Qdrant que tú tienes en tu `.env`, **NO vuelvas a correrlo** — sáltate directo al Paso 5.
+>
+> **Por qué importa:** `load_documents.py` usa `recreate_collection`, que **borra y reconstruye** la colección desde cero. Si dos personas lo corren al mismo tiempo (o sin coordinarse), pueden pisarse entre sí y generar errores temporales o confusión sobre qué datos hay realmente indexados. Solo la persona "dueña" del índice debería correrlo — el resto solo *consulta* la colección que ya existe.
+
+Si en tu caso **sí** te corresponde poblar Qdrant por primera vez (por ejemplo, cambiaron las fuentes o es tu primera vez configurando el proyecto), este paso lee los documentos de la carpeta `data/`, los trocea, y los sube a tu Qdrant Cloud.
 
 Opcional pero recomendado — revisar el chunking antes de subir nada:
 ```bash
@@ -125,6 +129,20 @@ Para probar que **no inventa** respuestas, intenta con una pregunta que no está
 { "pregunta": "¿Cuál es la velocidad máxima permitida en autopistas en Chile?" }
 ```
 Debería responder algo como *"No tengo información suficiente para responder esa pregunta."*
+
+---
+
+## 7. (Opcional) Correr todas las preguntas de evaluación de una vez
+
+En vez de probar pregunta por pregunta en `/docs`, puedes correr automáticamente **todo** el set de `eval/` (respondibles + no respondibles) contra el servidor.
+
+**Con el servidor del Paso 5 corriendo en una terminal**, abre **otra terminal nueva** (recuerda: si usas Poetry vía Anaconda en Windows, puede que necesites agregar Poetry al PATH de esta terminal nueva también) y corre:
+
+```bash
+poetry run python test_eval.py
+```
+
+Vas a ver cada pregunta con su respuesta, marcada con ✓ (se comportó como se esperaba) o ✗ (revisar). Tarda un rato porque son ~27 preguntas, una por una.
 
 ---
 
