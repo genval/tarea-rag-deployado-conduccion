@@ -1,7 +1,7 @@
 # Preguntas respondibles (10-15)
-
+ 
 Set de preguntas cuya respuesta SÍ está contenida en las fuentes indexadas
-(Libro para la Conducción en Chile, CONASET — Capítulos 1, 2 y 3).
+(Libro para la Conducción en Chile, CONASET — Capítulos 1, 2, 3 y 4).
 
 1. ¿Cuántos siniestros de tránsito se registran anualmente en Chile y cuántas personas fallecen?
 2. ¿Cuáles son los 4 principios fundamentales del Sistema Seguro?
@@ -18,3 +18,6 @@ Set de preguntas cuya respuesta SÍ está contenida en las fuentes indexadas
 13. ¿Por qué es peligroso el monóxido de carbono del sistema de escape de un vehículo?
 14. ¿Cuál es la diferencia entre el freno de servicio y el freno de estacionamiento?
 15. ¿Qué porcentaje de los siniestros con víctimas ocurre en zonas urbanas?
+16. ¿Qué medicamentos pueden afectar la capacidad de conducción?
+17. ¿Cómo afecta el alcohol a la capacidad de conducción, según los niveles de alcoholemia?
+18. ¿Qué es la fatiga al conducir y cómo se puede prevenir?
