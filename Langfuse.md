@@ -62,6 +62,37 @@ poetry add langfuse langchain
 (`langchain` —el paquete general, no solo `langchain-core`— es necesario
 porque `langfuse.langchain.CallbackHandler` depende de él.)
 
+## Configurar el precio del modelo (opcional, para ver el costo en USD)
+
+Por defecto, Langfuse no calcula el costo en dólares de `gpt-5.4-mini` porque no
+lo tiene en su lista de modelos predefinidos — solo muestra tokens. Si quieres
+ver el costo, cada persona debe configurarlo en **su propio** Langfuse local
+(esta config vive en la base de datos de Langfuse, no se comparte vía Git):
+
+1. Ve a **Settings → Models → Create Model**.
+2. **Regular expression:**
+   ```
+   (?i)^(gpt-5\.4-mini.*)$
+   ```
+   (el `.*` al final es necesario porque el modelo real incluye un sufijo de
+   fecha, ej. `gpt-5.4-mini-2026-03-17` — sin el `.*` el regex nunca hace match)
+3. **Prices** (valores de https://platform.openai.com/docs/pricing, tier "Short context",
+   convertidos a precio por token = precio por 1M / 1,000,000):
+
+   | Usage type | Precio |
+   |---|---|
+   | `input` | `0.00000075` |
+   | `output` | `0.0000045` |
+   | `input_cached_tokens` | `0.000000075` |
+   | `output_reasoning_tokens` | `0.0000045` |
+
+4. Revisa el "Price Preview" — la columna "per 1M" debe coincidir exactamente
+   con los precios oficiales de OpenAI ($0.75 / $4.50 / $0.075 / $4.50).
+5. **Submit.**
+
+Esto solo aplica a trazas **nuevas** desde el momento en que lo guardas — las
+trazas anteriores no se recalculan retroactivamente.
+
 ## Verificar que funciona
 
 1. Levanta el servidor como siempre:
