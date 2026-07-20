@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "tarea-rag-deployado"
+version = "1.0.0"
+description = "Agente Retriever (RAG) sobre Qdrant Cloud, servido con FastAPI y desplegado en fly.io. Tarea RAG (3 semanas) — Diplomado IA Generativa."
+authors = ["Gisselle <gisse.encalada@gmail.com>"]
+readme = "README.md"
+packages = [
+    { include = "app" },
+]
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.14"
+fastapi = ">=0.115"
+uvicorn = { extras = ["standard"], version = ">=0.30" }
+langchain-core = ">=1.1"
+langchain-openai = ">=1.1"
+langchain-qdrant = ">=1.1"
+qdrant-client = ">=1.15"
+python-dotenv = ">=1.0"
+langgraph = ">=0.6"
+
+[tool.poetry.group.dev.dependencies]
+langchain-community = ">=0.4"
+docx2txt = ">=0.8"
+pypdf = ">=5.0"
+langchain-text-splitters = ">=1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

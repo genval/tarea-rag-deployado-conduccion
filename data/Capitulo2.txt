@@ -1,0 +1,389 @@
+LIBRO PARA LA CONDUCCIÓN EN CHILE
+Fuente: Comisión Nacional de Seguridad de Tránsito (CONASET), Chile, 2024.
+Material de acceso público: https://mejoresconductores.conaset.cl
+
+CAPÍTULO 2: LOS PRINCIPIOS DE LA CONDUCCIÓN
+
+## Funcionamiento del automóvil
+
+Para poder conducir de manera segura debes mantener tu automóvil en buenas condiciones, para esto, es necesario que conozcas cómo está construido y el funcionamiento de sus partes principales.
+
+Para comenzar, debes conocer el panel de instrumentos, ya que es el medio de comunicación que fue diseñado para alertarte sobre el estado de los principales sistemas del vehículo:
+
+- Tacómetro: velocidad del motor en revoluciones por minuto.
+- Velocímetro: mide y muestra el valor de la rapidez instantánea del vehículo.
+- Odómetro: indica la distancia total o parcial recorrida por el vehículo.
+- Indicador de combustible.
+- Indicador de temperatura del líquido refrigerante.
+- Testigos color verde: indican la puesta en funcionamiento.
+- Testigos color rojo: informan atención inmediata, avería grave.
+- Testigos color amarillo o ámbar: advierten sobre un posible problema a revisar.
+
+### El motor
+
+El motor es la parte del vehículo que permite el funcionamiento de todos sus sistemas. Generalmente se sitúa en la parte delantera y para funcionar puede utilizar gasolina, petróleo diesel, gas y/o electricidad.
+
+Dentro del vehículo, en el panel de instrumentos, existe un elemento llamado tacómetro, el cual muestra la cantidad de revoluciones del motor en todo momento.
+
+### El sistema de lubricación
+
+Se trata del sistema encargado de distribuir aceite a todas las partes móviles dentro del motor con el objetivo de reducir el desgaste y la fricción entre las superficies de los componentes. Esta distribución se realiza a presión y cuando este procedimiento falla, es decir, cuando el motor no está siendo correctamente lubricado, se enciende en el panel de instrumentos la luz indicadora de la presión de aceite, lo que indica que el nivel de aceite es bajo. Si esta se enciende, debes detener el motor de inmediato y no ponerlo en marcha hasta haberlo reparado, ya que le puedes causar averías graves.
+
+Se recomienda controlar el nivel de aceite y agregar más si el nivel está bajo. Además, cambiar periódicamente el aceite y el filtro, según las recomendaciones del fabricante del vehículo. Utiliza aceites reconocidos y no olvides controlar los sellos de los envases.
+
+### El sistema eléctrico
+
+Es aquel que se encarga de proporcionar la energía eléctrica a los demás sistemas del vehículo. Esta energía es producida por el alternador y almacenada en la batería.
+
+El alternador convierte la energía mecánica en eléctrica gracias al movimiento de una correa que viene desde el motor. Cuando esta correa está poco tensa, se genera menos electricidad, generando una disminución en la carga de la batería. Si esto sucede, lo sabrás mediante la luz de advertencia o la correspondiente aguja en el panel de instrumentos.
+
+Una batería mal cargada hace que el vehículo tenga dificultades para arrancar, especialmente cuando la temperatura es baja. Cuando el motor de tu vehículo no se enciende al darle contacto es muy probable que la batería se encuentre descargada o desconectada.
+
+Por otro lado, todos los accesorios que utilizan electricidad están casi siempre provistos de fusibles para impedir incendios o daños en el sistema eléctrico. Si alguna unidad eléctrica deja de funcionar, lo primero que debes revisar es si se ha fundido algún fusible.
+
+En el caso de las ampolletas, si alguna no enciende o si la luz de control de los intermitentes destella en forma más rápida que lo habitual, es probable que una ampolleta se haya quemado.
+
+Recuerda controlar:
+- El nivel de líquido en la batería. Agrega agua destilada cuando sea necesario.
+- Que la correa del alternador esté suficientemente tensa.
+- Que los cables de la batería estén bien sujetos.
+- La luz de carga durante la conducción. Si se enciende o parpadea es porque hay algún problema.
+
+¡Ten precaución! El ácido de la batería es corrosivo; cuidado con tu ropa y piel.
+
+### El sistema de combustible
+
+Este sistema es el encargado de suministrar combustible al motor para su correcto funcionamiento.
+
+Si al conducir sientes un fuerte olor a gasolina debes detenerte para investigar la causa del problema. Así puedes prevenir el riesgo de incendio en tu vehículo.
+
+En el indicador de combustible, la letra E significa vacío (del inglés "Empty"), y la letra F indica estanque lleno (del inglés "Full").
+
+Al cargar gasolina, recuerda:
+- Apagar el motor del vehículo.
+- Evitar la inhalación de vapores emanados por la gasolina.
+- No encender cigarrillos.
+- No hablar por celular.
+- Usar el octanaje adecuado al motor de tu vehículo, según las indicaciones del fabricante.
+
+Recomendaciones para reducir la contaminación asociada al combustible:
+- Evita la apertura de la tapa más veces de lo necesario. Los vapores de la gasolina pueden ser cancerígenos.
+- Llenar el estanque de combustible cada vez que vayas a recargar. Contaminará menos al liberar menos gases.
+- Evitar frenadas y aceleraciones frecuentes ya que causan alto consumo de combustible.
+
+### El sistema de refrigeración
+
+Este sistema tiene la misión de enfriar el motor para mantener la temperatura adecuada durante su funcionamiento. Este proceso utiliza un líquido refrigerante (agua destilada más un anticongelante) que circula de manera constante por canales en el bloque del motor y pasa desde ahí al radiador.
+
+En el indicador de temperatura, la letra C significa frío (del inglés "Cold"), y la letra H, caliente (del inglés "Hot").
+
+Cuando hay una obstrucción del sistema de refrigeración, poco líquido refrigerante y/o una correa de la bomba de agua rota o mal tensada, la temperatura del motor se eleva. Si esto sucede, debes detener la marcha y reparar la avería.
+
+Hoy en día, la mayoría de los vehículos tiene ventilador eléctrico que se activa al subir la temperatura (especialmente al circular a baja velocidad). Si esto no sucede, puede deberse a un contacto defectuoso, que la correa del ventilador esté dañada o a un fusible dañado.
+
+A temperaturas bajo cero, el líquido refrigerante debe contener una cantidad suficiente de anticongelante que impida que el motor y el radiador se dañen por efecto de la congelación del agua; asegúrate de usar el tipo de líquido adecuado para tus necesidades.
+
+### El sistema de escape
+
+Se trata del conjunto de elementos y conductos que facilitan la expulsión al exterior de los gases que se han generado en la combustión, con el fin de mejorar el rendimiento del motor y su sonoridad.
+
+Estos gases de escape contienen sustancias tóxicas, entre ellas el monóxido de carbono, un componente venenoso, incoloro e inoloro. Es muy importante revisar el correcto funcionamiento de este sistema, el cual es propenso a oxidación o a estropearse, provocando que este gas penetre en el interior del vehículo (lo mismo puede ocurrir al conducir con el portaequipaje abierto). Los primeros síntomas de intoxicación con monóxido de carbono son el dolor de cabeza y los vómitos. A la menor señal de intoxicación, sal del vehículo y respira aire fresco.
+
+Un ruido anormalmente alto del tubo de escape suele ser una señal de roturas o de orificios en el silenciador.
+
+### La transmisión
+
+Es el sistema encargado de transferir la potencia que genera el motor a las ruedas del vehículo. Hay vehículos de tracción delantera, de tracción trasera, y también de tracción en las cuatro ruedas.
+
+Esta energía es dirigida a las ruedas de tracción a través del embrague, el sistema (pedal) que permite la transmisión o interrupción de la energía hacia las ruedas de tracción. Este proceso es moderado por la caja de cambios, donde es posible controlar manualmente el cambio de marchas y la velocidad del automóvil.
+
+Debes saber que al conducir presionando el embrague durante un tiempo mayor al necesario se reduce el control sobre el vehículo.
+
+Existen diversos tipos de caja de cambios, clasificados en automática y manual; estas se diferencian por el uso de la palanca de cambios y, en el caso de los vehículos automáticos, por carecer de pedal de embrague.
+
+La caja de cambios multiplica la fuerza del motor. Esta puede tener 3, 4, 5 o más marchas. Cada marcha se utiliza en un rango de velocidades, lo que permite optimizar el uso de combustible.
+
+### La dirección
+
+El sistema de dirección se encarga de transmitir el movimiento del volante hacia las ruedas. Para que este proceso requiera el mínimo esfuerzo humano, existe un mecanismo auxiliar llamado servodirección.
+
+La dirección se desalinea con mayor rapidez cuando el vehículo es sometido a sobrecargas, así como cuando topa contra el borde de una solera u otro obstáculo, o cae en hoyos. Esto provoca que las ruedas produzcan vibraciones y aumente el desgaste de los neumáticos.
+
+Algunas señales que indicarán si hay algún defecto en la dirección, o poca presión de aire en los neumáticos delanteros, son: sentir la dirección pesada, escuchar un chirrido excesivo al doblar, o que el vehículo tienda a irse hacia un lado al conducir por un terreno plano.
+
+### La suspensión y la amortiguación
+
+Estos sistemas son los encargados de mantener en todo momento el contacto entre los neumáticos y la superficie de la calzada, garantizando la estabilidad del vehículo y proporcionando confort a la persona conductora. Tienen un papel clave para mantener la trayectoria deseada y para absorber las irregularidades del asfalto.
+
+Síntomas de amortiguadores en mal estado:
+- Al frenar, el vehículo se inclina hacia adelante y se levanta de atrás de forma excesiva.
+- Al circular, el vehículo se balancea demasiado en carreteras en buen estado y se inclina excesivamente al tomar una curva.
+- Al cargar un extremo lateral frontal, el vehículo rebota u oscila.
+- Durante la marcha, se notan significativamente las alteraciones del camino (por ejemplo, los baches) y el viento lateral.
+- Los neumáticos se desgastan irregularmente.
+- Circulando de noche, las luces oscilan de forma llamativa.
+
+Un amortiguador en malas condiciones puede tener consecuencias peligrosas, como:
+- Vehículo con pérdida de estabilidad, especialmente en curvas, con viento lateral o al circular sobre una superficie mojada.
+- Aumento de la distancia de frenado, sobre todo con pavimento irregular o mojado (si además el vehículo dispone de frenos ABS, este sistema perderá efectividad).
+- Desgaste y avería con mayor frecuencia de otros elementos del vehículo.
+- Disminución del confort durante la conducción. La fatiga aparece con mayor facilidad en quien conduce.
+
+Es importante revisar periódicamente el estado de los amortiguadores, siguiendo siempre las indicaciones del fabricante del vehículo, y sustituirlos cuando dejen de ser seguros.
+
+### Los frenos
+
+El sistema de frenos permite reducir la velocidad del vehículo llegando incluso a su detención, por tanto es importante efectuar una supervisión y mantenimiento de ellos y saber cómo reaccionar ante una falla total, para evitar un siniestro de tránsito.
+
+Todos los vehículos tienen dos sistemas de frenos, que actúan independientemente uno del otro:
+
+1. El freno de servicio (pedal de freno) generalmente es hidráulico y actúa sobre las cuatro ruedas. Los vehículos antiguos tienen solo un sistema de circuito hidráulico, lo que hace que si la tubería del freno se rompe en algún lugar, todo el fluido desaparece, y con ello el efecto de frenado en todas las ruedas. Los vehículos modernos están equipados con sistemas de frenos de dos circuitos: si se produce una falla en uno, se mantiene cierto efecto de frenado en el otro.
+
+2. El freno de estacionamiento (freno de mano) es mecánico y generalmente actúa sobre las ruedas traseras. Muchos automóviles poseen un sistema de servofrenos, que aumenta considerablemente la fuerza de frenado. Esta tecnología funciona sólo con el motor en marcha, por lo que hay que tener cuidado al ser remolcado o si el motor se detiene en una bajada.
+
+Es importante saber que a temperaturas bajo cero es conveniente hacer pruebas de frenado a baja velocidad. Si circulas por una calle inundada, o si has lavado el vehículo recientemente, debes eliminar (también frenando) la eventual humedad en los tambores, especialmente si el vehículo ha estado estacionado.
+
+Existen 2 tipos de frenos: los convencionales y los frenos antibloqueo o ABS. Estos funcionan de forma distinta, por lo que es de suma importancia saber qué tipo de frenos tiene el vehículo en el que te desplazas.
+
+Ante una situación de emergencia, donde es necesario detener el vehículo lo más rápido posible, se debe considerar que uno de los mayores riesgos ante una frenada brusca es que las ruedas del vehículo se bloqueen y se deslicen sobre el pavimento. Cuando esto ocurre, la distancia de frenado aumentará notablemente y será imposible controlar la dirección del vehículo, por lo que hay una gran probabilidad de que no se pueda evitar el obstáculo.
+
+El ABS (sistema de frenado antibloqueo) detecta el instante en que las ruedas se bloquean y reduce ligeramente la presión sobre los frenos, mientras se mantiene presionado a fondo el pedal de freno. Permite que las ruedas sigan girando y que la persona conductora mantenga el control sobre la dirección del vehículo. Si el ABS llegase a fallar, los frenos seguirán funcionando.
+
+Se debe tener en cuenta que si un vehículo tiene incorporado este sistema, la distancia de frenado, para el caso de una frenada de emergencia, podría aumentar con respecto a la distancia sin ABS.
+
+Recuerda controlar:
+- El nivel del líquido de frenos periódicamente, según las indicaciones del fabricante. Este no se consume; si disminuye, es porque hay algún defecto mecánico. Además, si el nivel es bajo puede causar un siniestro.
+- Que la carrera del pedal de freno no sea demasiado larga. Lo aceptable es poder presionar el pedal hasta más arriba de la mitad de su distancia al piso.
+- Que los frenos actúen en forma pareja sobre las cuatro ruedas. Si están mal ajustados, en una frenada brusca el efecto irregular puede hacer que el vehículo se desvíe hacia un costado.
+- Que la posición del pedal no descienda cuando lo tienes fuertemente presionado. Si sucede, puede haber fugas.
+- Que el pedal se sienta rígido y no elástico. Si el pedal cede en su punto de presión, probablemente haya entrado aire al sistema.
+- Que las luces de freno funcionen.
+- Posibles grietas en las mangueras por las que circula el líquido de frenos. Revísalas vigilando que no existan manchas en el suelo por fugas.
+- Los plazos del líquido de frenos, indicados por el fabricante del vehículo. Una vez que caducan, debes cambiar todo el contenido.
+- Que el freno de mano funcione correctamente. Debe mantener el vehículo quieto en una pendiente o impedir que se pueda poner en marcha con el freno puesto.
+- El estado de discos y pastillas de freno. Revísalos periódicamente y presta atención ante ruidos producidos por su uso.
+- El funcionamiento de los frenos mediante pruebas de frenado a baja velocidad si has: circulado por vías inundadas, lavado el vehículo, o si el vehículo ha estado guardado por un largo tiempo.
+
+### Los neumáticos
+
+Los neumáticos son el único punto de apoyo del vehículo con la calzada, por esto es de vital importancia controlarlos regularmente. El agarre de los mismos aporta la seguridad necesaria bajo cualquier condición meteorológica, incluso en situaciones difíciles. De los distintos elementos de un vehículo, los neumáticos son los que requieren mayor revisión de parte de la persona conductora.
+
+Para que los neumáticos cumplan bien sus funciones de frenado, agarre y direccionalidad, los dibujos o surcos de sus bandas de rodamiento deben tener una profundidad aconsejable mínima de 3 mm. Cuando la profundidad de tales dibujos es muy baja (inferior a 1,6 mm), empeora la fricción con el pavimento mojado, aumentando el riesgo de que se pierda el contacto con el pavimento a causa de la capa de agua que se forma adelante de los neumáticos.
+
+Además, es importante revisar la presión del aire en ellos. Esta debe ser constante durante todo el año.
+
+Efectos de la presión de aire incorrecta:
+- Presión de aire demasiado baja en una o en las dos ruedas traseras: puede aumentar significativamente la tendencia al giro.
+- Presión de aire demasiado baja en las ruedas delanteras: la dirección del vehículo es más pesada, y por ende el vehículo es más pesado de manejar. Una baja presión de aire en una rueda delantera hace que el vehículo tienda a torcer hacia ese lado.
+- Presión de aire demasiado alta: se pierde la adherencia de los neumáticos.
+
+Un desgaste irregular puede deberse a problemas de alineamiento, de amortiguación, o a que se ha estado conduciendo con una presión de aire inadecuada. Un desgaste notorio en la zona central de la banda de rodamiento significa que los neumáticos se han usado con exceso de aire, mientras que un desgaste sólo en los extremos de la banda indica que se han usado con menor presión de aire que la recomendada.
+
+Qué hacer en caso de reventar un neumático:
+- Si se revienta un neumático trasero, debes girar el volante hacia el lado en que se desvía la cola del vehículo.
+- Si se revienta un neumático delantero, debes frenar de forma suave sosteniendo el volante firmemente.
+- En ambos casos, debes detenerte lentamente al costado de la vía.
+
+Recuerda:
+- Controlar la presión de los neumáticos cuando estos estén fríos y respetar las recomendaciones del fabricante. Si la presión se ajusta cuando los neumáticos están calientes, se tendrá una presión inferior a la adecuada.
+- Inspeccionar periódicamente la banda de rodadura. No debe tener cortes profundos ni grietas.
+- Circular a una velocidad moderada alarga la vida de los neumáticos.
+- Circular con carga, por un pavimento en mal estado o con clima caluroso puede acelerar el desgaste de los neumáticos.
+- Aumentar levemente la presión de los neumáticos cuando se lleva una carga muy pesada.
+- Cuidar que los neumáticos se encuentren correctamente balanceados.
+- Si detectas algo anormal en los neumáticos o en el comportamiento del vehículo (como vibraciones al circular), busca asesoría de un profesional.
+- Los neumáticos deben ser cambiados al menos cada 5 años, aunque tengan poco uso, ya que el material envejece y pierde sus propiedades para rodar con seguridad.
+- Si subes escalones o veredas con tu vehículo, pueden producirse deformaciones en las llantas y cortes o roturas en los neumáticos.
+- Cuando dejes la rueda de repuesto en tu vehículo, asegúrate que esté con la presión más alta sugerida y, si tuvieras que usarla, no excedas la velocidad máxima indicada por el fabricante.
+
+### Las luces
+
+Todos los vehículos deben estar provistos de focos y luces exteriores para poder ver y ser vistos por las demás personas cuando se conduce en la oscuridad o cuando la visibilidad se encuentra reducida, así como para advertir determinadas situaciones o la intención de realizar alguna maniobra.
+
+Los automóviles y, en general, los vehículos motorizados de 4 o más ruedas, deben poseer:
+- Parte delantera: dos focos que proyecten luces altas y bajas, dos luces de estacionamiento y dos luces destellantes de viraje.
+- Parte trasera: dos luces de estacionamiento, dos luces destellantes de viraje, dos luces de retroceso, dos luces rojas fijas, dos luces de freno, y una luz que ilumine la placa patente del vehículo.
+- Adicionalmente, una tercera luz de freno ubicada al centro de la luneta trasera (automóviles, jeeps, furgones, station wagon, camionetas y vehículos de transporte de escolares).
+
+Asegúrate de que tus luces estén limpias, que funcionen y que sus focos de luces altas y bajas estén bien ajustados. Un mal ajuste puede encandilar a las demás personas usuarias de la vía y causar un siniestro.
+
+Puedes controlar tus luces bajas estacionando tu vehículo en un lugar plano y a unos 10 metros de una pared, encendiendo tus luces bajas y verificando que el alto de la luz proyectada en la pared sea inferior a la altura de los faros del vehículo respecto del nivel del suelo.
+
+Luces de advertencia de peligro: las luces intermitentes de advertencia de peligro sólo deben utilizarse cuando el vehículo se encuentra detenido a consecuencia de una falla o avería, para avisar que temporalmente se está obstruyendo la circulación, o para advertir a quienes vienen detrás de un peligro u obstrucción más adelante (por ejemplo, cuando se está siendo remolcado). Deben usarse sólo por el tiempo necesario, nunca como excusa para un estacionamiento peligroso o ilegal.
+
+Luces neblineras: algunos vehículos cuentan además con luces neblineras. Estas pueden usarse sólo cuando la visibilidad se encuentre considerablemente reducida (niebla o lluvia torrencial), y deben apagarse tan pronto mejore la visibilidad.
+
+### Los espejos
+
+Los espejos permiten a la persona conductora ver el tráfico que circula detrás de ella y a la derecha e izquierda del vehículo. La mayoría de los espejos laterales son convexos, por lo que las imágenes se visualizan más lejanas de lo que están en la realidad.
+
+Aun cuando los espejos estén muy bien regulados, al conducir siempre existirá una zona sobre la cual no se tendrá visión. Estos sectores son denominados puntos ciegos o ángulos muertos.
+
+Se debe tener especial precaución con las y los usuarios vulnerables, es decir, con peatones, ciclistas y motociclistas, ya que estos no cuentan con una carrocería para protegerse y absorber el impacto de un siniestro de tránsito.
+
+### Antes de conducir, controla
+
+- Cinturones de seguridad
+- Neumáticos
+- Espejos
+- Limpiaparabrisas
+- Desempañador luneta trasera
+- Puertas
+- Ventilación
+- Luces
+- Bocina
+- Líquido limpiaparabrisas
+- Frenos
+
+Siempre debes asegurarte de:
+- Que al tomar el volante, tus brazos queden ligeramente flexionados.
+- Tener buena visibilidad a través del parabrisas delantero, luneta trasera y ventanas laterales. Si no es así, activa el ventilador, ajusta las boquillas del aire y enciende el desempañador de la luneta trasera.
+- Ajustar los espejos para tener buena visibilidad hacia atrás y hacia los lados.
+- Tener las puertas cerradas. Si llevas niñas y/o niños, asegúrate de que vayan bien sujetos y que no puedan abrir las puertas desde el interior.
+- Llevar los dispositivos reflectantes para casos de emergencia, extintor de incendio, rueda de repuesto y herramientas necesarias para su cambio.
+- No llevar algún objeto suelto en el vehículo, que pueda lesionar a alguien en caso de una frenada brusca.
+- Tener calzado que permita un adecuado control de los pedales.
+- Mirar a tu alrededor y chequear los puntos ciegos antes de poner tu vehículo en movimiento.
+- Tener luces, vidrios y espejos limpios para tener siempre una buena visibilidad.
+
+## La energía y las leyes físicas
+
+### La energía del movimiento
+
+Las personas que se desplazan en un vehículo están sujetas a las leyes físicas del movimiento y sus consecuencias. Por ejemplo, un vehículo que se aproxima a una curva tiende a continuar su desplazamiento en línea recta. Al mover el volante, se desvía la trayectoria recta que seguiría a causa de la fuerza de inercia; sin embargo, si se conduce a una velocidad demasiado alta, la fricción puede no ser suficiente para mantener al vehículo en la carretera.
+
+Al aumentar la velocidad al doble, la energía del movimiento aumenta 4 veces, lo que hay que tener presente, por ejemplo, al acercarse a una curva, ya que costará más mantener la dirección.
+
+Siempre es importante prever el estado del camino con anticipación, estimar bien el radio de una curva y prestar atención a obstáculos que puedan hacer que la carretera esté resbaladiza (hojas caídas, derrames de combustible, etc.). Al enfrentarte a una curva, reduce la velocidad con tiempo antes de que comience la curva y acelera suavemente a la salida de la misma.
+
+La magnitud de la fuerza centrífuga o fuerza lateral que en una curva tiende a sacar al vehículo de la carretera, depende directamente de la velocidad y de lo cerrada que sea la curva.
+
+### La distancia de detención
+
+La distancia de detención (S) es la suma de la distancia de reacción (R) y la distancia de frenado (F).
+
+La distancia de reacción es la distancia que recorre el vehículo (manteniendo su trayectoria y velocidad) mientras la persona conductora reacciona frente a una situación. Depende del tiempo de reacción de la persona y de la velocidad a la que circula. Un tiempo normal de reacción es un segundo: en ese segundo, un vehículo a 36 km/h recorre 10 metros, y 20 metros si lo hace a 72 km/h. La experiencia en conducción permite tener mejores tiempos de reacción.
+
+Puedes estimar aproximadamente la distancia de reacción multiplicando por tres la primera cifra de la velocidad (válido hasta los 99 km/h; sobre 100 km/h, considerar los 2 primeros dígitos):
+- 30 km/h → 9 m
+- 50 km/h → 15 m
+- 70 km/h → 21 m
+- 90 km/h → 27 m
+- 110 km/h → 33 m
+
+La distancia de frenado es la distancia que recorre el vehículo desde que se presiona el pedal de freno hasta su detención total. Depende de la velocidad, del estado de la calzada, de la pendiente, del estado de los frenos y neumáticos, y de la forma de frenar.
+
+La distancia de frenado crece al cuadrado con el aumento de la velocidad: si duplicas la velocidad, la distancia de frenado aumenta cuatro veces; si la triplicas, aumenta 9 veces.
+
+En cuanto a la forma de frenar: la persona conductora que planifica su conducción, disminuyendo a tiempo la presión sobre el acelerador y reduciendo su velocidad, hace menos uso del pedal de freno y aumenta su seguridad. En situaciones inesperadas, al comenzar a frenar se debe presionar el freno con la mayor fuerza posible. Si el vehículo no cuenta con frenos ABS y se bloquean las ruedas, hay que reducir en seguida la presión sobre el pedal de freno soltándolo.
+
+### La fuerza de gravedad
+
+Al igual que al frenar en bicicleta cuesta abajo en una pendiente pronunciada, existen fuerzas similares al conducir un vehículo motorizado. Cuando veas señales que adviertan sobre pendientes pronunciadas, tómate tiempo para bajarlas. A veces es necesario conducir en una marcha baja para que el motor vaya frenando y no se calienten los frenos.
+
+Recuerda nunca desenganchar el motor, ya que se pierde el control del vehículo.
+
+### Características de los vehículos y su influencia en la conducción
+
+Antes de sentarte al volante de un auto desconocido, hazte estas preguntas: ¿Tiene tracción delantera, trasera o en las cuatro ruedas? ¿Qué tipo de sistema de frenos tiene? ¿Dónde está ubicado su centro de gravedad?
+
+Un vehículo con motor delantero normalmente es más pesado en su parte frontal y tiene una tendencia a girar menos. Si se coloca una carga pesada en su parte trasera, tenderá a girar más de lo esperado y, al perder la fricción con el pavimento, dará un giro de 180° y continuará marchando con la parte trasera hacia delante.
+
+Cuando un automóvil tiene el centro de gravedad en su parte posterior y se toma una curva, el vehículo gira más de lo esperado, y si pierde la fricción con el pavimento, dará un coletazo (o derrape), un trompo, y continuará en la dirección del movimiento pero con la parte trasera hacia adelante.
+
+Respecto a la tracción de las ruedas: si se tiene un vehículo con tracción delantera y se realiza una aceleración mayor de lo que permite la fricción, las ruedas comenzarán a resbalar sobre sí mismas, pudiendo llevar a perder el control del vehículo y no poder girar — si esto sucede, se debe dejar de acelerar y retomar la trayectoria.
+
+Si se tiene un vehículo con tracción trasera y las ruedas pierden fricción, pueden producirse uno o varios coletazos — en estas circunstancias, se debe continuar acelerando y girar la dirección hacia la trayectoria.
+
+Un vehículo con tracción en las cuatro ruedas proporciona una posibilidad de conducción considerablemente mejor en pavimentos difíciles. En lo demás, se comportan igual que el resto.
+
+Otro factor que puede influir en que un vehículo gire más o menos de lo esperado es la presión de aire en sus neumáticos.
+
+## Elementos de seguridad
+
+Elementos de seguridad activa: son los sistemas que sirven para prevenir la ocurrencia de un siniestro de tránsito (por ejemplo: neumáticos, frenos y luces).
+
+Elementos de seguridad pasiva: son los componentes de seguridad del vehículo que contribuyen a evitar o reducir las consecuencias de un siniestro de tránsito (por ejemplo, el cinturón de seguridad y el airbag).
+
+### El cinturón de seguridad
+
+Los cinturones de seguridad tienen la función de salvar vidas y disminuir las posibilidades de sufrir lesiones en un siniestro. Además, brindan mayor comodidad, mejor control y contribuyen a reducir el cansancio.
+
+Todas las personas que viajan en el automóvil deben ir bien sujetas, incluso aquellas que viajen en los asientos traseros. Nunca permitas que dos personas viajen sujetas con un mismo cinturón.
+
+El uso de este elemento en los asientos traseros es obligatorio sólo si el vehículo tiene un año de fabricación 2002 o posterior.
+
+El cinturón de seguridad requiere ser utilizado de forma correcta; de no ser así, este dispositivo no protegerá de forma adecuada y, además, puede ocasionar graves lesiones.
+
+Un choque a 50 km/h sin llevar puesto el cinturón de seguridad es como tirarse a la calle desde un cuarto piso sin red de seguridad. Si la velocidad es de 70 km/h, equivale a lanzarse desde un séptimo piso. Chocar a una velocidad de 90 km/h provoca los mismos efectos que una caída desde el piso 11.
+
+Después de sufrir un siniestro, el cinturón podría estar dañado y su uso ya no ser seguro — deberá reemplazarse por uno nuevo, revisándolo después de alguna eventualidad.
+
+Uso correcto del cinturón de seguridad:
+
+Banda torácica (cruza desde el punto superior del hombro hasta la cadera):
+- Debe pasar sobre la clavícula, a medio camino entre el hombro y el cuello, y descender por el centro del pecho.
+- Si está colocada sobre el cuello o sobre un pecho, puede provocar graves lesiones durante el siniestro.
+- Si se coloca sobre el hombro, puede deslizarse hacia fuera durante el siniestro y reducir al mínimo su eficacia.
+
+Banda abdominal (entre los dos puntos inferiores de fijación):
+- Debe colocarse sobre los huesos de la cadera, siempre por debajo del abdomen, incluso en el caso de una persona embarazada.
+- Si se coloca sobre el abdomen, puede provocar graves lesiones internas durante el siniestro.
+
+Una vez abrochado:
+- Debe estirarse ligeramente hacia arriba para que quede bien ceñido al cuerpo.
+- Asegurarse de que no esté enganchado o torcido y que el cierre esté en buenas condiciones.
+- Si el cinturón tiene holguras, se recorrerá una mayor distancia durante el siniestro, pudiendo impactar contra el volante o el parabrisas.
+
+El uso adecuado del cinturón de seguridad evita el llamado efecto submarino, que se produce cuando la persona, durante el siniestro, se desliza por debajo de la banda abdominal.
+
+Cómo evitar el efecto submarino:
+- Siempre conducir en una postura adecuada; no reclinar el asiento en exceso ni conducir "semi-acostado/a".
+- Asegurarse de que el cinturón esté bien tensado. El efecto submarino aparece con mayor facilidad si el cinturón no está bien ajustado al cuerpo; también evitar conducir con ropa de mucho volumen.
+- No poner toallas, almohadones o fundas especiales sobre el asiento, ya que favorecen el deslizamiento de la persona.
+- Ponerse el cinturón de forma adecuada; si la banda abdominal se pone de forma incorrecta, es más probable deslizarse por debajo de ella.
+
+Las consecuencias del no uso del cinturón de seguridad no son individuales: las personas impulsadas hacia adelante desde el asiento trasero no sólo se lesionan a sí mismas, sino que también pueden lesionar a la persona conductora o a quien viaje en el asiento delantero.
+
+Mitos frecuentes sobre el cinturón de seguridad (y por qué son falsos):
+
+- "No voy a sufrir siniestros, por lo tanto no necesito usar el cinturón de seguridad": nadie espera sufrir un siniestro, pero no haberlo sufrido no significa que nunca vaya a ocurrir.
+- "Sobrevivir a un siniestro depende de la suerte, por lo que el cinturón no es de gran ayuda": el estudio de miles de siniestros demuestra que las personas que no usan el cinturón tienen el doble de probabilidad de fallecer en ellos.
+- "Es mucho más seguro salir eyectado del vehículo": si una persona sale eyectada por no usar el cinturón, la probabilidad de sufrir una lesión medular aumenta en un 1.300% y la probabilidad de fallecer aumenta en un 300%.
+- "Las personas quedaron atrapadas por el cinturón y fallecieron por no poder salir a tiempo": los estudios revelan que sólo en 1 de cada 1 millón de siniestros llevar el cinturón puede ser negativo; en la mayoría de los casos, el cinturón salva la vida o evita lesiones graves.
+- "El cinturón no es necesario en vías urbanas, donde la velocidad es baja": cerca del 80% de los siniestros con víctimas ocurren en zonas urbanas; un golpe frontal a sólo 30 o 40 km/h puede resultar mortal si la cabeza impacta contra el parabrisas o el volante.
+- "Si el recorrido es corto, no hace falta el cinturón": la mayoría de los siniestros con víctimas se producen a pocos kilómetros de la casa.
+- "Mi vehículo ya tiene muchos sistemas de seguridad, el cinturón no es tan importante": ningún dispositivo sustituye al cinturón; todos están diseñados para funcionar de forma complementaria a él. Por ejemplo, si se activa el airbag sin llevar el cinturón puesto, pueden producirse graves lesiones al inflarse la bolsa de aire.
+- "El cinturón resulta incómodo": la incomodidad inicial desaparece con el uso habitual.
+- "Durante el embarazo no hay que usar el cinturón": las personas embarazadas también deben usarlo, ya que el riesgo de lesionar o perder al bebé durante un siniestro es mayor si no lo usan.
+- "En los asientos traseros no hace falta el cinturón": las personas sin cinturón en los asientos traseros pueden salir eyectadas y golpear mortalmente a las demás personas del vehículo.
+
+### El airbag
+
+El airbag es una bolsa de aire que se infla en apenas unas milésimas de segundo al producirse un impacto. Hay diferentes tipos: laterales, para la cabeza, frontales, traseros, entre otros, con distintas tecnologías de activación.
+
+Este elemento de seguridad pasiva protege a las personas ocupantes del vehículo de las siguientes formas:
+1. Frena suavemente el movimiento de las y los ocupantes, evitando que las fuerzas de deceleración produzcan daños, especialmente en la cabeza (reduce la probabilidad de lesiones cervicales).
+2. Evita el impacto de las y los ocupantes contra elementos del interior del vehículo: el volante, el tablero, el parabrisas o las ventanas.
+3. Protege la cara y los ojos de fragmentos de cristal u otros elementos que puedan desprenderse (por ejemplo, del parabrisas).
+
+Al producirse un siniestro, la bolsa de aire se infla a una velocidad de hasta 300 km/h, por lo que si el cinturón no retiene a la persona y el airbag impacta contra ella antes de extenderse completamente, puede provocar graves lesiones por la fuerza del golpe.
+
+El airbag no es eficaz si no se utiliza junto con el cinturón de seguridad. La eficacia del airbag frontal se basa en la combinación del uso del cinturón, una buena posición de las manos frente al volante, y la regulación del apoya cabezas al nivel de las orejas. Se ha estimado que el uso de airbag frontal en conjunto con el cinturón puede reducir en un 20% la probabilidad de sufrir lesiones mortales.
+
+Cuando el sistema de airbag presente fallas en su estado de reposo, se prenderá el testigo del airbag y este debe ser revisado a la brevedad.
+
+Nunca debes poner un Sistema de Retención Infantil en el asiento delantero.
+
+### Los apoya cabezas
+
+Cuando un vehículo sufre un impacto por atrás, es sometido a una aceleración hacia adelante, lo que provoca que el asiento empuje el cuerpo de la persona también hacia adelante. Si la cabeza no se encuentra apoyada, oscila respecto del torso, provocando un violento cambio de dirección en el cuello (forma de "s" al principio, y luego hacia atrás). Este movimiento se denomina efecto latigazo.
+
+La forma de prevenir este efecto y las lesiones cervicales asociadas es usando correctamente los apoya cabezas. No utilizarlo correctamente podría desencadenar un esguince cervical, una lesión que puede afectar músculos, articulaciones o ligamentos del cuello, y traer como consecuencia dolores musculares y de cabeza, disminución de la movilidad del cuello, vértigo o mareos, molestias que con frecuencia podrían prolongarse algunos meses.
+
+En ocasiones, las lesiones producidas por el latigazo cervical llegan a ser mucho más graves — si se dañan las vértebras cervicales, la persona podría llegar a sufrir algún tipo de discapacidad irreversible, como una tetraplejia.
+
+El correcto uso del apoya cabezas:
+- La posición exacta es detrás de la cabeza. El borde superior del apoya cabezas debe quedar situado entre el límite superior de la cabeza y la altura de los ojos. Esta posición debe ajustarse a cada persona, en los asientos delanteros y traseros.
+- Nunca debe ubicarse por debajo de la cabeza, ya que esto reduce drásticamente su efectividad.
+- La separación entre la cabeza y el apoya cabezas debe ser la mínima posible y nunca superior a 4 cm.
