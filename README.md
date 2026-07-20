@@ -17,6 +17,19 @@ load_documents.py  →  Qdrant Cloud (colección: tarea2_conduccion_multiformato
 
 `load_documents.py` se corre **una sola vez** (o cuando cambian las fuentes) para poblar Qdrant. El servidor (`app/server.py`) **solo consulta** esa colección — nunca la modifica.
 
+## Requisitos previos
+
+Antes de clonar y correr este proyecto, necesitas tener instalado:
+
+- **Python 3.11 o superior**
+- **Poetry** (gestor de dependencias) — si no lo tienes:
+  ```bash
+  pip install poetry
+  poetry --version   # confirma que quedó instalado
+  ```
+- **Docker Desktop** (solo si vas a correr o construir la imagen localmente)
+- **flyctl** (solo si vas a desplegar en fly.io) — instrucciones en https://fly.io/docs/flyctl/install/
+
 ## Setup local
 
 ```bash
