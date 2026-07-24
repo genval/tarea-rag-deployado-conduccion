@@ -21,11 +21,27 @@ Si alguno falla, instálalo primero (busca "instalar Git", "instalar Python" o "
 > 💡 **Windows + Anaconda:** si instalaste Poetry dentro de un entorno de Anaconda,
 > es común que funcione en **Anaconda Prompt** pero no en la terminal de VS Code
 > (PowerShell) — cada terminal nueva que abras en VS Code puede no tener a Poetry
-> en su PATH. Si te sale `poetry: command not found` ahí, corre esto primero
-> (ajusta la ruta a la tuya, la obtienes con `where poetry` en Anaconda Prompt):
-> ```powershell
-> $env:Path += ";C:\Users\Gisse\anaconda3\Scripts"
+> en su PATH. Si te sale `poetry: command not found` ahí, sigue estos 2 pasos:
+>
+> **1. Encuentra la ruta de Poetry en TU computador** (es distinta para cada
+> persona, depende de tu nombre de usuario de Windows). Abre **Anaconda Prompt**
+> (donde sí funciona) y corre:
+> ```bash
+> where poetry
 > ```
+> Copia la ruta que te devuelve, pero **sin el `poetry.exe` al final** — solo la
+> carpeta. Por ejemplo, si te sale:
+> ```
+> C:\Users\TU_USUARIO\anaconda3\Scripts\poetry.exe
+> ```
+> la parte que necesitas es `C:\Users\TU_USUARIO\anaconda3\Scripts`.
+>
+> **2. Agrégala al PATH de la terminal de VS Code.** En la terminal de VS Code,
+> pega esto reemplazando `RUTA_QUE_COPIASTE` por lo que obtuviste en el paso 1:
+> ```powershell
+> $env:Path += ";RUTA_QUE_COPIASTE"
+> ```
+>
 > Esto hay que repetirlo **cada vez que abras una terminal nueva** en VS Code. Si
 > te cansa repetirlo, puedes dejarlo permanente: busca "Variables de entorno" en
 > el menú de inicio de Windows → *Editar las variables de entorno del sistema* →
@@ -165,6 +181,6 @@ Vas a ver cada pregunta con su respuesta, marcada con ✓ (se comportó como se 
 
 | Síntoma | Causa probable |
 |---|---|
-| `poetry: command not found` (en terminal de VS Code, pero sí funciona en Anaconda Prompt) | Ver la nota en el Paso 0 — corre `$env:Path += ";C:\Users\Gisse\anaconda3\Scripts"` en esa terminal |
+| `poetry: command not found` (en terminal de VS Code, pero sí funciona en Anaconda Prompt) | Ver la nota del Paso 0 — encuentra tu ruta con `where poetry` y agrégala al PATH de esa terminal |
 | Error pidiendo `OPENAI_API_KEY` / `QDRANT_URL` / `QDRANT_API_KEY` | El archivo `.env` no existe o está incompleto — revisa el Paso 2 |
 | El agente responde con error 502 | Revisa el log de la terminal del servidor — suele ser un problema de configuración del modelo o la API key |
