@@ -23,7 +23,7 @@ from langchain_qdrant import QdrantVectorStore
 from qdrant_client import QdrantClient
 from langgraph.prebuilt import create_react_agent
 
-load_dotenv()  # reads OPENAI_API_KEY, QDRANT_URL, QDRANT_API_KEY from .env
+load_dotenv(override=True)  # el .env de este proyecto siempre gana, aunque la sesión tenga otras variables cacheadas
 
 logger = logging.getLogger("rag-agent")
 

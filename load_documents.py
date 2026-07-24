@@ -30,7 +30,8 @@ from langchain_community.document_loaders import (
     PyPDFLoader,
 )
 
-load_dotenv()
+ 
+load_dotenv(override=True)  # el .env de este proyecto siempre gana, aunque la sesión tenga otras variables cacheadas
 
 # ============================================================================
 # 1. CONSTANTES DEL PROYECTO
