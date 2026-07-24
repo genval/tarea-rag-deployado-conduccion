@@ -18,6 +18,21 @@ poetry --version
 ```
 Si alguno falla, instálalo primero (busca "instalar Git", "instalar Python" o "instalar Poetry" para tu sistema operativo) antes de seguir.
 
+> 💡 **Windows + Anaconda:** si instalaste Poetry dentro de un entorno de Anaconda,
+> es común que funcione en **Anaconda Prompt** pero no en la terminal de VS Code
+> (PowerShell) — cada terminal nueva que abras en VS Code puede no tener a Poetry
+> en su PATH. Si te sale `poetry: command not found` ahí, corre esto primero
+> (ajusta la ruta a la tuya, la obtienes con `where poetry` en Anaconda Prompt):
+> ```powershell
+> $env:Path += ";C:\Users\Gisse\anaconda3\Scripts"
+> ```
+> Esto hay que repetirlo **cada vez que abras una terminal nueva** en VS Code. Si
+> te cansa repetirlo, puedes dejarlo permanente: busca "Variables de entorno" en
+> el menú de inicio de Windows → *Editar las variables de entorno del sistema* →
+> *Variables de entorno...* → en tu usuario, selecciona `Path` → *Editar* →
+> *Nuevo* → pega la misma ruta → Aceptar todo → **cierra y vuelve a abrir VS Code
+> por completo** (no basta con una terminal nueva).
+
 ---
 
 ## 1. Descargar el proyecto
@@ -150,6 +165,6 @@ Vas a ver cada pregunta con su respuesta, marcada con ✓ (se comportó como se 
 
 | Síntoma | Causa probable |
 |---|---|
-| `poetry: command not found` | Poetry no está instalado o no está en el PATH — reinstala o abre una terminal nueva |
+| `poetry: command not found` (en terminal de VS Code, pero sí funciona en Anaconda Prompt) | Ver la nota en el Paso 0 — corre `$env:Path += ";C:\Users\Gisse\anaconda3\Scripts"` en esa terminal |
 | Error pidiendo `OPENAI_API_KEY` / `QDRANT_URL` / `QDRANT_API_KEY` | El archivo `.env` no existe o está incompleto — revisa el Paso 2 |
 | El agente responde con error 502 | Revisa el log de la terminal del servidor — suele ser un problema de configuración del modelo o la API key |
